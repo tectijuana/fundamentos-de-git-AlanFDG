@@ -1,6 +1,8 @@
-# :wave: The Basics of GitHub 
+![Github Logo](/images/Logo.png)
 
-## 🤓 Course overview and learning outcomes 
+# :wave: Probando codigo en GitHub 
+
+## 🤓 Los pequenos cursos que se estan realizando 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
