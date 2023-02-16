@@ -1,4 +1,4 @@
-![Github Logo](/images/Logo.png)
+![Github Logo](culmetal.png)
 
 # :wave: Probando codigo en GitHub 
 
